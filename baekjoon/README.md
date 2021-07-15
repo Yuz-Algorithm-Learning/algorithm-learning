@@ -9,8 +9,8 @@
 ## graph
 
 ## mathematics
-|번호|티어|제목|알고리즘|
-|------|---|---|---|
+|번호|티어|제목|
+|------|---|---|
 |[12907](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_12907)|골드5|동물원|
 
 ## etc
