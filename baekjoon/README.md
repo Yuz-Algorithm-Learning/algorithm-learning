@@ -7,8 +7,14 @@
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
 
 ## graph
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
+|[17616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_17616)|골드3|등수 찾기|
 
 ## mathematics
+|번호|티어|제목|
+|------|---|---|
+|[12907](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_12907)|골드5|동물원|
 
 ## etc
 |번호|티어|제목|
