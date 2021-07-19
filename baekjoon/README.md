@@ -10,6 +10,8 @@
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
 |[17616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_17616)|골드3|등수 찾기|DFS|
+|[19542](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_19542)|골드4|전단지 돌리기|DFS|
+|[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
 
 ## mathematics
 |번호|티어|제목|
