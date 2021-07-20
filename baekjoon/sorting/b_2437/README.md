@@ -7,4 +7,4 @@
     현재 N번째 원소라고 할 때, 1번째 원소부터 N-1번째 원소까지는 측정할 수 있는 양의 정수의 무게라는 것을 보장함
 ```
 
-![2437](https://user-images.githubusercontent.com/57518908/126263467-45b1c89f-e3bf-4a1c-9351-e0749d73af95.jpg)
+![2437](https://user-images.githubusercontent.com/57518908/126263949-cb8e1b5d-f7c1-41f9-bcce-83f8a3cf4382.jpg)
