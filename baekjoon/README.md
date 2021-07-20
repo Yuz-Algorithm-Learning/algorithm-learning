@@ -23,6 +23,11 @@
 |------|---|---|
 |[12907](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_12907)|골드5|동물원|
 
+## sorting
+|번호|티어|제목|
+|------|---|---|
+|[2437](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2437)|골드3|저울|
+
 ## etc
 |번호|티어|제목|
 |------|---|---|
