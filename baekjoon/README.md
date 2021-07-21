@@ -30,7 +30,7 @@
 |[2437](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2437)|골드3|저울|
 |[5052](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_5052)|골드4|전화번호 목록|
 
-## sorting
+## string
 |번호|티어|제목|
 |------|---|---|
 |[12904](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12904)|골드5|A와 B|
