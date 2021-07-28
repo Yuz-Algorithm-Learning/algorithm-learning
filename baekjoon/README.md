@@ -19,7 +19,7 @@
 |[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
 |[1987](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1987)|골드4|알파벳|백트래킹|
 
-## LIS(Longest Increasing Sequence): 가장 긴 증가하는 부분 수열
+## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
 |------|---|---|
 |[2550](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2550)|골드4|전구|
