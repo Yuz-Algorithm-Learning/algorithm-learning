@@ -11,6 +11,11 @@
 |------|---|---|---|
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
 
+## dynamic programming
+|번호|티어|제목|
+|------|---|---|
+|[11049](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11049)|골드3|행렬 곱셈 순서|
+
 ## graph
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
@@ -25,11 +30,19 @@
 |[2550](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2550)|골드4|전구|
 |[14003](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2568)|플래티넘5|가장 긴 증가하는 부분 수열5|
 |[2568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_14003)|플래티넘5|전깃줄-2|
+|[2352](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2352)|골드2|반도체 설계|
 
 ## mathematics
 |번호|티어|제목|
 |------|---|---|
 |[12907](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_12907)|골드5|동물원|
+|[2038](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_2038)|골드2|골롱 수열|
+
+## shortest path
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
+|[1504](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1504)|골드4|특정한 최단 경로|Dijkstra|
+|[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_16118)|골드1|달빛 여우|Dijkstra|
 
 ## sorting
 |번호|티어|제목|
@@ -42,9 +55,8 @@
 |------|---|---|
 |[12904](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12904)|골드5|A와 B|
 
-
 ## etc
-|번호|티어|제목|
-|------|---|---|
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
 |[1484](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|골드4|다이어트|
-
+|[15961](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15961)|골드4|회전 초밥|슬라이딩 윈도우|
