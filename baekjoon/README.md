@@ -24,12 +24,12 @@
 |[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
 |[1987](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1987)|골드4|알파벳|백트래킹|
 
-## LIS(Longest Increasing Sequence): 가장 긴 증가하는 부분 수열
+## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
 |------|---|---|
 |[2550](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2550)|골드4|전구|
-|[14003](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2568)|플래티넘5|가장 긴 증가하는 부분 수열5|
-|[2568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_14003)|플래티넘5|전깃줄-2|
+|[14003](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_14003)|플래티넘5|가장 긴 증가하는 부분 수열5|
+|[2568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2568)|플래티넘5|전깃줄-2|
 |[2352](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2352)|골드2|반도체 설계|
 
 ## mathematics
