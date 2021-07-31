@@ -45,10 +45,11 @@
 |[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_16118)|골드1|달빛 여우|Dijkstra|
 
 ## sorting
-|번호|티어|제목|
-|------|---|---|
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
 |[2437](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2437)|골드3|저울|
 |[5052](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_5052)|골드4|전화번호 목록|
+|[1766](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1766)|골드2|문제집|위상 정렬|
 
 ## string
 |번호|티어|제목|
