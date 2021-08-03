@@ -1,6 +1,6 @@
 ## 2933 미네랄
 
-### 풀이
+### 구현
 ```
 1. 마지막 높이(R)에 'x'를 C개 만큼 추가  
     - BFS를 통해 공중에 떠있는 미네랄 클러스터들을 분리하는 데에 수월  
@@ -12,5 +12,6 @@
 5. 위에서 구한 최소 거리만큼 좌표를 이동(drop)
 ```
 
-![2933](https://user-images.githubusercontent.com/57518908/127940869-1a8bf8a8-f6c1-4409-b35b-1ece2c807ce3.png)
+### 과정
 ![2933_](https://user-images.githubusercontent.com/57518908/127940926-5d7bf9d2-521b-4b16-b5ca-042b638f65fb.jpg)
+![2933](https://user-images.githubusercontent.com/57518908/127941073-caf2c86b-9bbb-4c46-9f76-103d4e594456.png)
