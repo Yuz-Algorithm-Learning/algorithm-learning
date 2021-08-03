@@ -15,7 +15,6 @@ bool is_levitation() {
     queue<pair<int, int>> q;
     memset(visit, 0, sizeof(visit));
 
-    int x;
     visit[R][0] = 1;
     q.emplace(R, 0);
 
