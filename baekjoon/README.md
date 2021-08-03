@@ -10,6 +10,7 @@
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
+|[2357](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_2357)|골드1|최솟값과 최댓값|Segment Tree|
 
 ## dynamic programming
 |번호|티어|제목|
@@ -23,6 +24,7 @@
 |[19542](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_19542)|골드4|전단지 돌리기|DFS|
 |[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
 |[1987](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1987)|골드4|알파벳|백트래킹|
+|[2933](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2933)|골드2|미네랄|BFS|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
@@ -50,6 +52,7 @@
 |[2437](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2437)|골드3|저울|
 |[5052](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_5052)|골드4|전화번호 목록|
 |[1766](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1766)|골드2|문제집|위상 정렬|
+|[18234](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_18234)|골드4|당근 훔쳐 먹기|
 
 ## string
 |번호|티어|제목|
