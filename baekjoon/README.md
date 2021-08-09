@@ -29,6 +29,7 @@
 |[1987](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1987)|골드4|알파벳|백트래킹|
 |[2933](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2933)|골드2|미네랄|BFS|
 |[1520](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1520)|골드4|내리막 길|DFS + DP|
+|[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
