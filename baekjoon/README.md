@@ -70,3 +70,4 @@
 |------|---|---|---|
 |[1484](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|골드4|다이어트|
 |[15961](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15961)|골드4|회전 초밥|슬라이딩 윈도우|
+|[2457](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2457)|골드4|공주님의 정원|**map + pair**|
