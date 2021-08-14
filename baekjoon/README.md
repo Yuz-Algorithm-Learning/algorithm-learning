@@ -31,6 +31,7 @@
 |[1520](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1520)|골드4|내리막 길|DFS + DP|
 |[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
 |[1810](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1810)|골드4|**징검다리 달리기 2**|Dijkstra|
+|[2150](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2150)|플래티넘5|SCC|SCC|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
@@ -71,3 +72,4 @@
 |[1484](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|골드4|다이어트|
 |[15961](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15961)|골드4|회전 초밥|슬라이딩 윈도우|
 |[2457](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2457)|골드4|공주님의 정원|**map + pair**|
+|[1101](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1101)|골드4|스티커 정리1|
