@@ -11,6 +11,7 @@
 |------|---|---|---|
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
 |[2357](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_2357)|골드1|최솟값과 최댓값|Segment Tree|
+|[1715](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1715)|골드4|카드 정렬하기|Priority Queue|
 
 ## dynamic programming
 |번호|티어|제목|
@@ -32,6 +33,7 @@
 |[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
 |[1810](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1810)|골드4|**징검다리 달리기 2**|Dijkstra|
 |[2150](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2150)|플래티넘5|SCC|SCC|
+|[11567](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11567)|골드2|선진이의 겨울 왕국|BFS|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
@@ -60,6 +62,11 @@
 |[5052](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_5052)|골드4|전화번호 목록|
 |[1766](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1766)|골드2|문제집|위상 정렬|
 |[18234](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_18234)|골드4|당근 훔쳐 먹기|
+
+## stack
+|번호|티어|제목|
+|------|---|---|
+|[6549](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_6549)|플래티넘5|히스토그램에서 가장 큰 직사각형|
 
 ## string
 |번호|티어|제목|
