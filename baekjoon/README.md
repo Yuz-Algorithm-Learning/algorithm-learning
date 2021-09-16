@@ -35,6 +35,7 @@
 |[1810](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1810)|골드4|**징검다리 달리기 2**|Dijkstra|
 |[2150](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2150)|플래티넘5|SCC|SCC|
 |[11567](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11567)|골드2|선진이의 겨울 왕국|BFS|
+|[1197](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1197)|골드4|최소 스패닝 트리|MST|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
