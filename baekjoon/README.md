@@ -14,14 +14,14 @@
 |[1715](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1715)|골드4|카드 정렬하기|Priority Queue|
 
 ## dynamic programming
-|번호|티어|제목|
-|------|---|---|
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
 |[11049](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11049)|골드3|행렬 곱셈 순서|
 |[14722](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14722)|골드4|우유 도시|
 |[1949](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1949)|골드1|우수 마을|
 |[2616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2616)|골드4|소형 기관차|
 |[1509](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1509)|골드1|팰린드롬 분할|
-|[2098](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2098)|골드1|외판원 순회|
+|[2098](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2098)|골드1|외판원 순회|비트마스킹|
 
 ## graph
 |번호|티어|제목|알고리즘|
