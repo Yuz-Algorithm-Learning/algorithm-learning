@@ -66,6 +66,7 @@
 |[1766](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1766)|골드2|문제집|위상 정렬|
 |[18234](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_18234)|골드4|당근 훔쳐 먹기|
 |[2473](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2473)|골드4|세 용액|
+|[2623](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2623)|골드2|음악프로그램|위상 정렬|
 
 ## stack
 |번호|티어|제목|
