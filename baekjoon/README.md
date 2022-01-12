@@ -27,25 +27,26 @@
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
 |[1260](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1260)|실버2|DFS와 BFS|DFS, BFS|
-|[17616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_17616)|골드3|등수 찾기|DFS|
+|[1325](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1325)|실버1|효율적인 해킹|DFS|
 |[19542](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_19542)|골드4|전단지 돌리기|DFS|
 |[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
-|[1987](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1987)|골드4|알파벳|백트래킹|
+|[17616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_17616)|골드3|등수 찾기|DFS|
 |[2933](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2933)|골드2|미네랄|BFS|
-|[1520](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1520)|골드4|내리막 길|DFS + DP|
-|[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
-|[1810](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1810)|골드4|**징검다리 달리기 2**|Dijkstra|
-|[2150](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2150)|플래티넘5|SCC|SCC|
 |[11567](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11567)|골드2|선진이의 겨울 왕국|BFS|
+|[1520](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1520)|골드4|내리막 길|DFS + DP|
+|[1987](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1987)|골드4|알파벳|백트래킹|
+|[1810](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1810)|골드4|**징검다리 달리기 2**|Dijkstra|
 |[1197](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1197)|골드4|최소 스패닝 트리|MST|
+|[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
+|[2150](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2150)|플래티넘5|SCC|SCC|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
 |------|---|---|
 |[2550](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2550)|골드4|전구|
+|[2352](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2352)|골드2|반도체 설계|
 |[14003](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_14003)|플래티넘5|가장 긴 증가하는 부분 수열5|
 |[2568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2568)|플래티넘5|전깃줄-2|
-|[2352](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2352)|골드2|반도체 설계|
 
 ## mathematics
 |번호|티어|제목|
@@ -56,10 +57,10 @@
 ## shortest path
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
-|[1504](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1504)|골드4|특정한 최단 경로|Dijkstra|
-|[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_16118)|골드1|달빛 여우|Dijkstra|
 |[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1753)|골드5|최단경로|Dijkstra|
+|[1504](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1504)|골드4|특정한 최단 경로|Dijkstra|
 |[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_11779)|골드3|최소비용 구하기2|Dijkstra|
+|[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_16118)|골드1|달빛 여우|Dijkstra|
 
 ## sorting
 |번호|티어|제목|알고리즘|
