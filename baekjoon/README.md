@@ -32,6 +32,7 @@
 |[19542](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_19542)|골드4|전단지 돌리기|DFS|
 |[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
 |[17616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_17616)|골드3|등수 찾기|DFS|
+|[1167](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1167)|골드3|트리의 지름|DFS(TREE)|
 |[2933](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2933)|골드2|미네랄|BFS|
 |[11567](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11567)|골드2|선진이의 겨울 왕국|BFS|
 |[1520](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1520)|골드4|내리막 길|DFS + DP|
