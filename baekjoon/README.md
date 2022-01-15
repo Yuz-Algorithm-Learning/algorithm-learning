@@ -83,6 +83,7 @@
 |번호|티어|제목|
 |------|---|---|
 |[12904](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12904)|골드5|A와 B|
+|[12919](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12919)|골드5|A와 B 2|
 
 ## etc
 |번호|티어|제목|알고리즘|
