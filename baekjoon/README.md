@@ -47,6 +47,7 @@
 |번호|티어|제목|
 |------|---|---|
 |[2550](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2550)|골드4|전구|
+|[11054](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_11054)|골드3|가장 긴 바이토닉 부분 수열|
 |[2352](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2352)|골드2|반도체 설계|
 |[14003](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_14003)|플래티넘5|가장 긴 증가하는 부분 수열5|
 |[2568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2568)|플래티넘5|전깃줄-2|
