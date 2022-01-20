@@ -88,6 +88,11 @@
 |[12904](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12904)|골드5|A와 B|
 |[12919](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12919)|골드5|A와 B 2|
 
+## brute force
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
+|[15686](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_15686)|골드5|치킨 배달|조합|
+
 ## etc
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
