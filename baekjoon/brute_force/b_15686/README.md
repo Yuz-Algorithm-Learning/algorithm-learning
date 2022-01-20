@@ -9,8 +9,8 @@
    - 집 좌표와 치킨의 좌표 저장 (y, x) 형태
 2. vector<bool> visit
    - 치킨집 m개의 조합을 구하기 위함
-   - 모든 조합을 구하기 위해 bool 배열 초기 상태가 **오름차순 정렬**이어야 함
-    : 즉, false가 true 보다 앞에 와야 함 (true가 m개 존재)
+   - 모든 조합을 구하기 위해 bool 배열 초기 상태가 **오름차순 정렬**이어야 함  
+    : 즉, false가 true 보다 앞에 와야 함 (true가 m개 존재)  
     : EX) 5C2 일 때, visit 배열은 {false, false, false, true, true} 모양이 초기값
    - bool 배열을 바탕으로 next_permutation 연산을 수행하여 true가 되는 것에 대응함
 
