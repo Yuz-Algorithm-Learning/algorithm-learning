@@ -99,7 +99,7 @@
 ## etc
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
-|[15666](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|실버2|N과 M(12)|백트래킹 + **중복**조합|
+|[15666](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15666)|실버2|N과 M(12)|백트래킹 + **중복**조합|
 |[1484](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|골드4|다이어트|
 |[15961](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15961)|골드4|회전 초밥|슬라이딩 윈도우|
 |[2457](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2457)|골드4|공주님의 정원|**map + pair**|
