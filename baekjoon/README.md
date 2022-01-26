@@ -32,8 +32,9 @@
 |------|---|---|---|
 |[1260](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1260)|실버2|DFS와 BFS|DFS, BFS|
 |[1325](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1325)|실버1|효율적인 해킹|DFS|
-|[1389](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1389)|실버1|케빈 베이컨의 6단계 법칙|플로이드-와샬|
 |[2667](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2667)|실버1|단지번호붙이기|DFS|
+|[1389](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1389)|실버1|케빈 베이컨의 6단계 법칙|플로이드-와샬|
+|[16928](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_16928)|실버1|뱀과 사다리 게임|BFS|
 |[12851](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_12851)|골드5|숨바꼭질 2|BFS|
 |[19542](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_19542)|골드4|전단지 돌리기|DFS|
 |[14267](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_14267)|골드4|회사 문화1|DFS|
