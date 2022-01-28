@@ -77,6 +77,7 @@
 ## sorting
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[1931](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1931)|실버2|회의실 배정|정렬 **compare** 직접 작성|
 |[2437](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2437)|골드3|저울|
 |[5052](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_5052)|골드4|전화번호 목록|
 |[1766](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1766)|골드2|문제집|위상 정렬|
