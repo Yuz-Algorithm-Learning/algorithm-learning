@@ -16,6 +16,7 @@
 ## dynamic programming
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[9461](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9461)|실버3|파도반 수열|
 |[9095](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9095)|실버3|1, 2, 3 더하기|
 |[2579](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2579)|실버3|계단 오르기|
 |[1149](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1149)|실버1|RGB 거리|
