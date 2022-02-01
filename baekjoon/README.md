@@ -107,6 +107,7 @@
 ## etc
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[2630](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2630)|실버3|색종이 만들기|재귀|
 |[15666](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15666)|실버2|N과 M(12)|백트래킹 + **중복**조합|
 |[1484](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|골드4|다이어트|
 |[15961](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15961)|골드4|회전 초밥|슬라이딩 윈도우|
