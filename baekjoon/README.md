@@ -19,6 +19,7 @@
 |[9461](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9461)|실버3|파도반 수열|
 |[9095](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9095)|실버3|1, 2, 3 더하기|
 |[2579](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2579)|실버3|계단 오르기|
+|[11726](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11726)|실버3|2xn 타일링|
 |[1149](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1149)|실버1|RGB 거리|
 |[11660](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11660)|실버1|구간 합 구하기 5|누적 합|
 |[9251](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9251)|골드5|LCS|Longest Common Sucsequence|
