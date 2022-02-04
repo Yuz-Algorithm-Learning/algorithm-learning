@@ -80,6 +80,7 @@
 ## sorting
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[11399](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_11399)|실버3|ATM|그리디 알고리즘|
 |[1931](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_1931)|실버2|회의실 배정|정렬 **compare** 직접 작성|
 |[18870](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_18870)|실버2|좌표 압축|**중복 제거 + lower_bound**|
 |[2437](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/sorting/b_2437)|골드3|저울|
