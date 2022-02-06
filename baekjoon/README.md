@@ -75,6 +75,7 @@
 |------|---|---|---|
 |[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1753)|골드5|최단경로|Dijkstra|
 |[1504](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1504)|골드4|특정한 최단 경로|Dijkstra|
+|[1238](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_1238)|골드3|파티|Dijkstra|
 |[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_11779)|골드3|최소비용 구하기2|Dijkstra|
 |[16118](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/shortest_path/b_16118)|골드1|달빛 여우|Dijkstra|
 
