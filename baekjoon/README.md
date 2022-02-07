@@ -114,6 +114,7 @@
 |------|---|---|---|
 |[2630](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2630)|실버3|색종이 만들기|재귀|
 |[15666](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15666)|실버2|N과 M(12)|백트래킹 + **중복**조합|
+|[1629](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1629)|실버1|실버1|분할 정복|
 |[1484](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1484)|골드4|다이어트|
 |[15961](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15961)|골드4|회전 초밥|슬라이딩 윈도우|
 |[2457](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2457)|골드4|공주님의 정원|**map + pair**|
