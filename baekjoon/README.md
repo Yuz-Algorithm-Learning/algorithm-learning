@@ -4,6 +4,7 @@
 ## binary search
 |번호|티어|제목|
 |------|---|---|
+|[1764](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/binary_search/b_1764)|실버4|듣보잡|
 |[1300](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/binary_search/b_1300)|골드3|K번째 수|
 
 ## data structure
