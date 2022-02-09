@@ -10,9 +10,10 @@
 ## data structure
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[7662](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_7662)|골드5|이중 우선순위 큐|Priority Queue + Map|
+|[1715](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1715)|골드4|카드 정렬하기|Priority Queue|
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
 |[2357](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_2357)|골드1|최솟값과 최댓값|Segment Tree|
-|[1715](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1715)|골드4|카드 정렬하기|Priority Queue|
 
 ## dynamic programming
 |번호|티어|제목|알고리즘|
