@@ -36,6 +36,7 @@
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
 |[1260](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1260)|실버2|DFS와 BFS|DFS, BFS|
+|[1012](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1012)|실버2|유기농 배추|DFS|
 |[1325](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1325)|실버1|효율적인 해킹|DFS|
 |[2667](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2667)|실버1|단지번호붙이기|DFS|
 |[1389](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1389)|실버1|케빈 베이컨의 6단계 법칙|플로이드-와샬|
