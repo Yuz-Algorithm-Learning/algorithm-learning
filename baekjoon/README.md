@@ -104,6 +104,7 @@
 ## string
 |번호|티어|제목|
 |------|---|---|
+|[1620](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_1620)|실버4|나는야 포켓몬 마스터 이다솜|
 |[12904](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12904)|골드5|A와 B|
 |[12919](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12919)|골드5|A와 B 2|
 
