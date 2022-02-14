@@ -102,11 +102,12 @@
 |[6549](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_6549)|플래티넘5|히스토그램에서 가장 큰 직사각형|
 
 ## string
-|번호|티어|제목|
+|번호|티어|제목|자료구조|
 |------|---|---|
 |[1620](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_1620)|실버4|나는야 포켓몬 마스터 이다솜|
 |[12904](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12904)|골드5|A와 B|
 |[12919](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12919)|골드5|A와 B 2|
+|[5430](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_5430)|골드5|AC|Deque|
 
 ## brute force
 |번호|티어|제목|알고리즘|
