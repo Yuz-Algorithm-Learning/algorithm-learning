@@ -120,6 +120,7 @@
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
 |[2630](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2630)|실버3|색종이 만들기|재귀|
+|[15654](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15654)|실버3|색종이 만들기|순열(Permutation)|
 |[15666](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15666)|실버2|N과 M(12)|백트래킹 + **중복**조합|
 |[1629](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1629)|실버1|곱셈|분할 정복|
 |[1074](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1074)|실버1|Z|분할 정복|
