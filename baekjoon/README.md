@@ -24,6 +24,7 @@
 |[11726](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11726)|실버3|2xn 타일링|
 |[1149](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1149)|실버1|RGB 거리|
 |[11660](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11660)|실버1|구간 합 구하기 5|누적 합|
+|[9465](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9465)|실버1|스티커|
 |[9251](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9251)|골드5|LCS|Longest Common Sucsequence|
 |[11049](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11049)|골드3|행렬 곱셈 순서|
 |[14722](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14722)|골드4|우유 도시|
