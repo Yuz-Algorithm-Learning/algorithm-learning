@@ -31,6 +31,7 @@
 |[14722](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14722)|골드4|우유 도시|
 |[1949](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1949)|골드1|우수 마을|
 |[2616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2616)|골드4|소형 기관차|
+|[10942](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_10942)|골드3|팰린드롬?|
 |[1509](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1509)|골드1|팰린드롬 분할|
 |[2098](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2098)|골드1|외판원 순회|비트마스킹|
 
