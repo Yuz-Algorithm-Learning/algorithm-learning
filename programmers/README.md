@@ -14,3 +14,4 @@
 |[멀쩡한 사각형](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/멀쩡한%20사각형)|
 |[행렬 테두리 회전하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/행렬%20테두리%20회전하기)|
 |[괄호 변환](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/괄호%20변환)|재귀|
+|[뉴스 클러스터링](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/뉴스%20클러스터링)|Map|
