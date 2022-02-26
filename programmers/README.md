@@ -12,3 +12,4 @@
 |[카카오프렌즈 컬러링북](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/카카오프랜즈%20컬러링북)|DFS|
 |[단체사진 찍기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/단체사진%20찍기)|순열(Permutation)|
 |[멀쩡한 사각형](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/멀쩡한%20사각형)|
+|[행렬 테두리 회전하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/행렬%20테두리%20회전하기)|
