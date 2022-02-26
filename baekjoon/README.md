@@ -52,6 +52,7 @@
 |[13549](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_13549)|골드5|숨바꼭질 3|BFS|
 |[7576](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_7576)|골드5|토마토|BFS|
 |[2206](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2206)|골드4|벽 부수고 이동하기|BFS|
+|[9019](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_9019)|골드4|DSLR|BFS|
 |[10026](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_10026)|골드5|적록색약|DFS|
 |[1967](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1967)|골드4|트리의 지름|DFS|
 |[19542](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_19542)|골드4|전단지 돌리기|DFS|
