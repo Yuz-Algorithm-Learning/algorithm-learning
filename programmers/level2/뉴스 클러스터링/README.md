@@ -21,8 +21,8 @@
 ```c++
 - 교집합이 0이고 합집합도 0인 경우, 0 / 0 은 에러이기에 이 부분 예외처리
 - J(A, B) = 1로 정의 
-    if(!_inter && !_union) {
-        _inter = 1;
-        _union = 1;
-    }
+if(!_inter && !_union) {
+    _inter = 1;
+    _union = 1;
+}
 ```
