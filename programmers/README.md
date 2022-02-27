@@ -15,3 +15,4 @@
 |[행렬 테두리 회전하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/행렬%20테두리%20회전하기)|
 |[괄호 변환](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/괄호%20변환)|재귀|
 |[뉴스 클러스터링](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/뉴스%20클러스터링)|Map|
+|[거리두기 확인하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/거리두기%20확인하기)|
