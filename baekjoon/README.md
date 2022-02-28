@@ -23,6 +23,7 @@
 |[11659](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11659)|실버3|구간 합 구하기 4|
 |[2579](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2579)|실버3|계단 오르기|
 |[11726](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11726)|실버3|2xn 타일링|
+|[11727](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11726)|실버3|2xn 타일링 2|
 |[1149](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1149)|실버1|RGB 거리|
 |[11660](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11660)|실버1|구간 합 구하기 5|누적 합|
 |[9465](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9465)|실버1|스티커|
