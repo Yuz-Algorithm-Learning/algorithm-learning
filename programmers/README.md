@@ -17,6 +17,7 @@
 |[뉴스 클러스터링](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/뉴스%20클러스터링)|Map|
 |[거리두기 확인하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/거리두기%20확인하기)|
 |[수식 최대화](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/수식%20최대화)|string + next_permutation|
+|[전화번호 목록](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/전화번호%20목록)|문자열 정렬|
 
 ## level 3
 |제목|알고리즘|
