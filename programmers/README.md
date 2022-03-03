@@ -24,4 +24,4 @@
 |---|---|
 |[가장 먼 노드](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/가장%20먼%20노드)|다익스트라(Dijkstra)|
 |[추석 트래픽](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/추석%20트래픽)|
-|[퍼즐 조각 채우기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/퍼즐%20조각%20채우기)|
+|[퍼즐 조각 채우기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/퍼즐%20조각%20채우기)|블록 회전|
