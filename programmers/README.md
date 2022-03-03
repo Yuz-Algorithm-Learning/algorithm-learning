@@ -28,3 +28,4 @@
 |[추석 트래픽](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/추석%20트래픽)|
 |[퍼즐 조각 채우기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/퍼즐%20조각%20채우기)|블록 회전|
 |[단속카메라](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/단속카메라)|정렬 + 그리디(Greedy)|
+|[등굣길](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/단속카메라)|DP|
