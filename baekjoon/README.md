@@ -28,6 +28,7 @@
 |[11660](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11660)|실버1|구간 합 구하기 5|누적 합|
 |[9465](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9465)|실버1|스티커|
 |[9251](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9251)|골드5|LCS|Longest Common Sucsequence|
+|[17070](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_17070)|골드5|파이프 옮기기 1|
 |[11049](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11049)|골드3|행렬 곱셈 순서|
 |[14722](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14722)|골드4|우유 도시|
 |[1949](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1949)|골드1|우수 마을|
