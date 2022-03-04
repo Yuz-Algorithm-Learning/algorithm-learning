@@ -1,7 +1,9 @@
 ## 17070 파이프옮기기 1
 
 ### 비슷한 문제
-- [프로그래머스 level3 등굣길](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/등굣길)
+
+- [프로그래머스 level3 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+    - [풀이](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/등굣길)
 
 ### 구현
 ```c++
