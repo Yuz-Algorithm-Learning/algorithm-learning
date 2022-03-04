@@ -29,4 +29,4 @@
 |[퍼즐 조각 채우기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/퍼즐%20조각%20채우기)|블록 회전|
 |[단속카메라](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/단속카메라)|정렬 + 그리디(Greedy)|
 |[등굣길](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/등굣길)|DP|
-|[최고의 집합](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/최고의 집합)|
+|[최고의 집합](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/최고의%20집합)|
