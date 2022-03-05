@@ -13,14 +13,13 @@
         - map<int, int> m 형태로 저장되어 있을 때 
         - vector<pair<int, int>> vec_m(m.begin(), m.end());
     - value 값에 대한 비교 함수 작성
-        {   
-            /* 내림차순(>), 오름차순(<) */
-            bool comp(const pair<int, int> &a, const pair<int, int> &b) {
-            return a.second > b.second;
-        }
+    {   
+        bool comp(const pair<int, int> &a, const pair<int, int> &b) {
+        return a.second > b.second; /* 내림차순(>), 오름차순(<) */
+    }
     - sort 함수를 이용해 정렬
-        {
-            sort(vec_m.begin(), vec_m.end(), comp);
-        }
+    {
+        sort(vec_m.begin(), vec_m.end(), comp);
+    } 
 
 ```
