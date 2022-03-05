@@ -20,8 +20,7 @@
 |[전화번호 목록](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/전화번호%20목록)|문자열 정렬|
 |[게임 맵 최단거리](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/게임%20맵%20최단거리)|BFS|
 |[위장](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/위장)|수학|
-|[JadenCase 문자열 만들기
-](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/JadenCase%20문자열%20만들기
+|[JadenCase 문자열 만들기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/JadenCase%20문자열%20만들기
 )|문자열|
 
 ## level 3
