@@ -19,6 +19,7 @@
 |[수식 최대화](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/수식%20최대화)|string + next_permutation|
 |[전화번호 목록](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/전화번호%20목록)|문자열 정렬|
 |[게임 맵 최단거리](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/게임%20맵%20최단거리)|BFS|
+|[위장](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/위장)|수학|
 
 
 ## level 3
