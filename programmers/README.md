@@ -22,6 +22,7 @@
 |[위장](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/위장)|수학|
 |[JadenCase 문자열 만들기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/JadenCase%20문자열%20만들기)|문자열|
 |[튜플](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/튜플)|문자열 + Map + compare 비교함수|
+|[N개의 최소공배수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/N개의%20최소공배수)|최대공약수(GCD) + 최소공배수(LCM)|
 
 ## level 3
 |제목|알고리즘|
