@@ -33,3 +33,4 @@
 |[단속카메라](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/단속카메라)|정렬 + 그리디(Greedy)|
 |[등굣길](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/등굣길)|DP|
 |[최고의 집합](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/최고의%20집합)|
+|[N으로 표현](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/N으로%20표현)|DP + unordered_map|
