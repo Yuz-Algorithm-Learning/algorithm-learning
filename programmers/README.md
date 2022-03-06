@@ -34,3 +34,4 @@
 |[등굣길](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/등굣길)|DP|
 |[최고의 집합](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/최고의%20집합)|
 |[N으로 표현](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/N으로%20표현)|DP + unordered_map|
+|[베스트앨범](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/베스트앨범)|문자열 + Map + compare 비교함수|
