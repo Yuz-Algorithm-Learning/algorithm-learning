@@ -25,6 +25,7 @@
 |[N개의 최소공배수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/N개의%20최소공배수)|최대공약수(GCD) + 최소공배수(LCM)|
 |[소수 찾기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/소수%20찾기)|소수(prime number) + 순열 + map|
 |[가장 큰 수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/가장%20큰%20수)|문자열 + comp|
+|[조이스틱](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/조이스틱)|
 
 ## level 3
 |제목|알고리즘|
