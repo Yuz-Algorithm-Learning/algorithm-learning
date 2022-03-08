@@ -27,6 +27,7 @@
 |[가장 큰 수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/가장%20큰%20수)|문자열 + comp|
 |[조이스틱](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/조이스틱)|
 |[최댓값과 최솟값](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/최댓값과%20최솟값)|
+|[괄호 회전하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/괄호%20회전하기)|
 
 ## level 3
 |제목|알고리즘|
