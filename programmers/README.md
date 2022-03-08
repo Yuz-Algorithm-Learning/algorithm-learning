@@ -37,4 +37,4 @@
 |[N으로 표현](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/N으로%20표현)|DP + unordered_map|
 |[베스트앨범](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/베스트앨범)|문자열 + Map + compare 비교함수|
 |[디스크 컨트롤러](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/디스크%20컨트롤러)|우선순위 큐(Priority Queue)|
-|[야근 지수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/디스크%20컨트롤러)|Map(key 기준 내림차순)|
+|[야근 지수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/야근%20지수)|Map(key 기준 내림차순)|
