@@ -29,6 +29,7 @@
 |[최댓값과 최솟값](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/최댓값과%20최솟값)|
 |[괄호 회전하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/괄호%20회전하기)|
 |[카펫](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/카펫)|
+|[예상 대진표](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/예상%20대진표)|시프트 연산|
 
 ## level 3
 |제목|알고리즘|
