@@ -50,3 +50,4 @@
 |[야근 지수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/야근%20지수)|Map(key 기준 내림차순)|
 |[여행경로](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/여행경로)|DFS + 되돌아오기|
 |[순위](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/순위)|플로이드-와샬|
+|[멀리 뛰기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/멀리%20뛰기)|DP|
