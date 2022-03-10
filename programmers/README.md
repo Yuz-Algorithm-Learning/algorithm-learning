@@ -31,6 +31,7 @@
 |[카펫](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/카펫)|
 |[예상 대진표](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/예상%20대진표)|시프트 연산|
 |[후보키](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/후보키)|조합(Combinaion)|
+|[배달](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/배달)|다익스트라(dijkstra)|
 
 ## level 3
 |제목|알고리즘|
