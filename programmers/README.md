@@ -34,6 +34,7 @@
 |[배달](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/배달)|다익스트라(dijkstra)|
 |[H-Index](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/H-Index)|
 |[큰 수 만들기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/큰%20수%20만들기)|그리디(Greedy)|
+|[피로도](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/피로도)|DFS + 완전탐색|
 
 ## level 3
 |제목|알고리즘|
