@@ -38,6 +38,7 @@
 |[프렌즈4블록](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/프렌즈4블록)|구현|
 |[피보나치수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/피보나치수)|
 |[영어 끝말잇기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/영어%20끝말잇기)|
+|[숫자의 표현](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/숫자의%20표현)|
 
 ## level 3
 |제목|알고리즘|
