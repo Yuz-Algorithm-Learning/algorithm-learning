@@ -57,4 +57,5 @@
 |[멀리 뛰기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/멀리%20뛰기)|DP|
 |[자물쇠와 열쇠](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/자물쇠와%20열쇠)|구현 + 회전|
 |[풍선 터뜨리기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/풍선%20터뜨리기)|
+|[숫자 게임](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/숫자%20게임)|
 |[블록 이동하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/블록%20이동하기)|구조체(struct)를 이용한 좌표 표현 + map + BFS|
