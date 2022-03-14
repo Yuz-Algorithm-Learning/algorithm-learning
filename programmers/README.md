@@ -61,3 +61,4 @@
 |[숫자 게임](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/숫자%20게임)|
 |[블록 이동하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/블록%20이동하기)|구조체(struct)를 이용한 좌표 표현 + map + BFS|
 |[이중우선순위큐](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/이중우선순위큐)|Deque(큐)|
+|[징검다리 건너기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/징검다리%20건너기)|이분탐색(Binary Search)|
