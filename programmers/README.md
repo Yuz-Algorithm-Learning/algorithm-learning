@@ -40,6 +40,7 @@
 |[영어 끝말잇기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/영어%20끝말잇기)|
 |[숫자의 표현](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/숫자의%20표현)|
 |[파일명 정렬](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/파일명%20정렬)|
+|[구명보트](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/구명보트)|
 
 ## level 3
 |제목|알고리즘|
@@ -63,3 +64,5 @@
 |[블록 이동하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/블록%20이동하기)|구조체(struct)를 이용한 좌표 표현 + map + BFS|
 |[이중우선순위큐](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/이중우선순위큐)|Deque(큐)|
 |[징검다리 건너기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/징검다리%20건너기)|이분탐색(Binary Search)|
+|[가장 긴 팰린드롬](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/가장%20긴%20팰린드롬)|DP|
+|[보석쇼핑](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/보석쇼핑)|투포인터|
