@@ -41,7 +41,7 @@
 |[숫자의 표현](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/숫자의%20표현)|
 |[파일명 정렬](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/파일명%20정렬)|
 |[구명보트](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/구명보트)|
-|[다음 큰 숫자](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/비트마스크)|
+|[다음 큰 숫자](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/다음%20큰%20숫자)|비트마스크|
 
 ## level 3
 |제목|알고리즘|
