@@ -46,7 +46,7 @@
 |[땅따먹기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/땅따먹기)|
 |[방문길이](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/방문길이)|
 |[n진수 게임](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/n진수%20게임)|
-|[가장 큰 정사각형 찾기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/가장%20큰%20정사각형%20찾기)|
+|[가장 큰 정사각형 찾기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/가장%20큰%20정사각형%20찾기)|DP|
 
 
 ## level 3
