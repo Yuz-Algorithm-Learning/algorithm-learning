@@ -73,3 +73,5 @@
 |[징검다리 건너기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/징검다리%20건너기)|이분탐색(Binary Search)|
 |[가장 긴 팰린드롬](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/가장%20긴%20팰린드롬)|DP|
 |[보석쇼핑](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/보석쇼핑)|투포인터|
+|[셔틀버스](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/셔틀버스)|
+|[스티커모으기(2)](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/스티커모으기(2))|DP|
