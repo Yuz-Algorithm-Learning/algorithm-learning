@@ -44,6 +44,7 @@
 |[다음 큰 숫자](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/다음%20큰%20숫자)|비트마스크|
 |[행렬의곱셈](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/행렬의곱셈)|
 |[땅따먹기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/땅따먹기)|
+|[방문길이](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/방문길이)|
 
 ## level 3
 |제목|알고리즘|
