@@ -76,3 +76,4 @@
 |[셔틀버스](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/셔틀버스)|
 |[스티커모으기(2)](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/스티커모으기(2))|DP|
 |[줄 서는 방법](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/줄%20서는%20방법)|팩토리얼(factorial)|
+|[불량 사용자](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/불량%20사용자)|**DFS + 완전탐색**|
