@@ -78,3 +78,4 @@
 |[줄 서는 방법](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/줄%20서는%20방법)|팩토리얼(factorial)|
 |[불량 사용자](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/불량%20사용자)|**DFS + 완전탐색**|
 |[길 찾기 게임](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/길%20찾기%20게임)|이진트리 + 노드(구조체)|
+|[거스름돈](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/거스름돈)|DP(n원을 거슬러 줄 방법의 수)|
