@@ -47,6 +47,7 @@
 |[방문길이](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/방문길이)|
 |[n진수 게임](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/n진수%20게임)|
 |[가장 큰 정사각형 찾기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/가장%20큰%20정사각형%20찾기)|DP|
+|[전력망을 둘로 나누기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/전력망을%20둘로%20나누기)|DFS|
 
 
 ## level 3
