@@ -83,3 +83,4 @@
 |[다단계 칫솔 판매](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/다단계%20칫솔%20판매)|
 |[외벽점검](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/외벽점검)|원형탐색 + 완전탐색|
 |[합승 택시 요금](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/합승%20택시%20요금)|다익스트라(dijkstra)|
+|[하노이의탑](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/하노이의탑)|재귀|
