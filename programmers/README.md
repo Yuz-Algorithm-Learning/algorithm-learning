@@ -49,6 +49,7 @@
 |[가장 큰 정사각형 찾기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/가장%20큰%20정사각형%20찾기)|DP|
 |[전력망을 둘로 나누기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/전력망을%20둘로%20나누기)|DFS|
 |[교점에 별 만들기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/교점에%20별%20만들기)|교점|
+|[이진 변환 반복하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/이진%20변환%20반복하기)|
 
 
 ## level 3
