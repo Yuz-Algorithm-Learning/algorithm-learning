@@ -53,7 +53,7 @@
 |[점프와 순간이동](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/점프와%20순간이동)|
 |[캐시](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/캐시)|
 |[쿼드압축 후 개수세기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/쿼드압축%20후%20개수세기)|
-
+|[방금그곡](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/방금그곡)|문자열 find|
 
 ## level 3
 |제목|알고리즘|
