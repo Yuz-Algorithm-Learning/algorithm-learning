@@ -92,3 +92,4 @@
 |[매칭점수](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/매칭점수)|구현 + 문자열(find)|
 |[n-queen](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/n-queen)|백트래킹 DFS|
 |[기둥과 보설치](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/기둥과%20보설치)|
+|[경주로 건설](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/경주로%20건설)|BFS|
