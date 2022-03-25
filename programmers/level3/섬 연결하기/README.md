@@ -4,6 +4,9 @@
 - 그리디 + Union-Find
 ```c++
 /* Union-Find */
+for(int i = 0; i < n; i++)
+        roots[i] = i;
+
 int find(int x) {
 	if (roots[x] == x) return x;
 	return roots[x] = find(roots[x]);
