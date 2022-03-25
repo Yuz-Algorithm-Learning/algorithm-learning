@@ -5,7 +5,7 @@
 ```c++
 /* Union-Find */
 for(int i = 0; i < n; i++)
-        roots[i] = i;
+    roots[i] = i;
 
 int find(int x) {
 	if (roots[x] == x) return x;
