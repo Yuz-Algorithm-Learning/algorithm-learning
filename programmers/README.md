@@ -54,6 +54,7 @@
 |[캐시](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/캐시)|
 |[쿼드압축 후 개수세기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/쿼드압축%20후%20개수세기)|
 |[방금그곡](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/방금그곡)|문자열 find|
+|[압축](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/압축)|
 
 ## level 3
 |제목|알고리즘|
