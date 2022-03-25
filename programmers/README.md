@@ -56,6 +56,7 @@
 |[방금그곡](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/방금그곡)|문자열 find|
 |[압축](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/압축)|
 |[빛의 경로 사이클](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/빛의%20경로%20사이클)|
+|[삼각달팽이](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level2/삼각달팽이)|
 
 ## level 3
 |제목|알고리즘|
