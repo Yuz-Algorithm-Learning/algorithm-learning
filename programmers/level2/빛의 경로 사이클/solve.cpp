@@ -17,7 +17,6 @@ void move_cycle(int y, int x, int dir, int len) {
         cycle_len = len;
         return;
     }
-    
     visited[y][x][dir] = true;
     
     if(grid[y][x] == 'L')
