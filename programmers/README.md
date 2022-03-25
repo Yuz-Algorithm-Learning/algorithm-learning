@@ -99,3 +99,4 @@
 |[기둥과 보설치](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/기둥과%20보설치)|
 |[경주로 건설](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/경주로%20건설)|BFS|
 |[아이템 줍기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/아이템%20줍기)|BFS|
+|[섬 연결하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/섬%20연결하기)|그리디(Greedy) + Union-Find|
