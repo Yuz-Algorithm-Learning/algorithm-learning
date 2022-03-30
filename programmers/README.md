@@ -102,3 +102,4 @@
 |[섬 연결하기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/섬%20연결하기)|그리디(Greedy) + Union-Find|
 |[기지국 설치](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/기지국%20설치)|
 |[카드 짝 맞추기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/카드%20짝%20맞추기)|BFS + 순열|
+|[입국심사](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/입국심사)|이분탐색(Binary Search)|
