@@ -103,3 +103,4 @@
 |[기지국 설치](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/기지국%20설치)|
 |[카드 짝 맞추기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/카드%20짝%20맞추기)|BFS + 순열|
 |[입국심사](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/입국심사)|이분탐색(Binary Search)|
+|[광고 삽입](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/광고%20삽입)|투포인터|
