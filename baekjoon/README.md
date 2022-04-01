@@ -15,6 +15,7 @@
 |[1918](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1918)|골드3|후위 표기식|Stack|
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
 |[2357](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_2357)|골드1|최솟값과 최댓값|Segment Tree|
+|[1655](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1655)|골드2|가운데를 말해요|priority_queue|
 
 ## dynamic programming
 |번호|티어|제목|알고리즘|
