@@ -84,11 +84,12 @@
 |[2568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/lis/b_2568)|플래티넘5|전깃줄-2|
 
 ## mathematics
-|번호|티어|제목|
-|------|---|---|
+|번호|티어|제목|알고리즘|
+|------|---|---|---|
 |[1541](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_1541)|실버2|잃어버린 괄호|
 |[12907](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_12907)|골드5|동물원|
 |[2038](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_2038)|골드2|골롱 수열|
+|[11401](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_11401)|골드1|이항 계수 3|**조합 + 모듈러 연산 + 페르마의 소정리**|
 
 ## shortest path
 |번호|티어|제목|알고리즘|
