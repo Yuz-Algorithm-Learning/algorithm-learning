@@ -86,6 +86,7 @@
 ## mathematics
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[9471](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_9471)|실버4|피사노 주기|
 |[2407](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_2407)|실버3|**조합**|**조합 + 문자열을 이용한 계산**|
 |[1541](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_1541)|실버2|잃어버린 괄호|
 |[12907](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_12907)|골드5|동물원|
