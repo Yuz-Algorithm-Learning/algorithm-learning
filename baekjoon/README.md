@@ -92,7 +92,7 @@
 |[2038](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_2038)|골드2|골롱 수열|
 |[11401](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_11401)|골드1|이항 계수 3|**조합 + 모듈러 연산 + 페르마의 소정리**|
 |[10830](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_10830)|골드4|행렬 제곱|분할 정복|
-|[2749](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_2749)|골드2|피보나치수 3|피보나치수 주기|
+|[2749](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/mathematics/b_2749)|골드2|피보나치수 3|피사노 주기|
 
 ## shortest path
 |번호|티어|제목|알고리즘|
