@@ -9,3 +9,4 @@ vector<vector<pair<int, int>>> mirr(h, vector<pair<int, int>>(w, {987654321, 987
 ```
 - `-` 방향에서 `|` 방향으로 or `|` 방향에서 `-` 방향으로 처럼 방향이 바뀔 때, 거울 개수 하나 증가시켜준 값을 mirr 벡터에 저장
 
+- 프로그래머스 Lv3 경주로 건설과 유사
