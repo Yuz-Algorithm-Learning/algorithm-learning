@@ -139,6 +139,7 @@
 |[3019](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_3019)|실버1|테트리스|블록 회전|
 |[15686](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_15686)|골드5|치킨 배달|**조합(Combination)**|
 |[1107](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_1107)|골드5|리모컨|
+|[12100](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_12100)|골드2|2048(Easy)|
 
 ## etc
 |번호|티어|제목|알고리즘|
