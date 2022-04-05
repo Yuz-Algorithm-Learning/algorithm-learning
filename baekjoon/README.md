@@ -156,3 +156,4 @@
 |[2457](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2457)|골드4|공주님의 정원|**map + pair**|
 |[1101](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1101)|골드4|스티커 정리1|
 |[1806](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_1806)|골드4|부분합|두 포인터 유형|
+|[3190](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_3190)|골드5|뱀|구현|
