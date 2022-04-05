@@ -31,6 +31,7 @@
 |[9251](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_9251)|골드5|LCS|Longest Common Sucsequence|
 |[17070](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_17070)|골드5|파이프 옮기기 1|
 |[11049](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11049)|골드3|행렬 곱셈 순서|
+|[11066](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_11066)|골드3|파일 합치기|
 |[14722](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14722)|골드4|우유 도시|
 |[1949](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1949)|골드1|우수 마을|
 |[2616](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2616)|골드4|소형 기관차|
