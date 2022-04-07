@@ -76,6 +76,7 @@
 |[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
 |[2150](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2150)|플래티넘5|SCC|SCC|
 |[3197](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_3197)|플래티넘5|백조의 호수|BFS 심화|
+|[4991](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_4991)|골드2|로봇 청소기|비트마스킹|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
