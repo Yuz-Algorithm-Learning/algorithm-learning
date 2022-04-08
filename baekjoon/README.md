@@ -38,6 +38,7 @@
 |[10942](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_10942)|골드3|팰린드롬?|
 |[1509](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_1509)|골드1|팰린드롬 분할|
 |[2098](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2098)|골드1|외판원 순회|비트마스킹|
+|[14501](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14501)|실버3|퇴사|
 
 ## graph
 |번호|티어|제목|알고리즘|
