@@ -170,3 +170,4 @@
 |[14499](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_14499)|골드4|주사위 굴리기|구현|
 |[14503](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_14503)|골드5|로봇 청소기|구현|
 |[14891](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_14891)|골드5|톱니바퀴|
+|[2931](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2931)|골드3|가스관|
