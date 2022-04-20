@@ -83,6 +83,7 @@
 |[1039](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1039)|골드3|**교환**|BFS + 문자열|
 |[10217](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_10217)|골드1|KCM Travel|Dijkstra|
 |[2151](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2151)|골드4|거울 설치|BFS|
+|[16954](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_16954)|골드4|움직이는 미로 탈출|BFS|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
