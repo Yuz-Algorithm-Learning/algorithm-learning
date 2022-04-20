@@ -51,6 +51,7 @@
 |[1325](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1325)|실버1|효율적인 해킹|DFS|
 |[2667](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2667)|실버1|단지번호붙이기|DFS|
 |[11404](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11404)|골드4|플로이드|플로이드-와샬|
+|[1956](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1956)|골드4|운동|플로이드-와샬|
 |[1389](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1389)|실버1|케빈 베이컨의 6단계 법칙|플로이드-와샬|
 |[11403](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11403)|실버1|경로 찾기|플로이드-와샬|
 |[16928](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_16928)|실버1|뱀과 사다리 게임|BFS|
