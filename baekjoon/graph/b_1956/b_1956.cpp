@@ -41,7 +41,5 @@ int main() {
     else
         cout << "-1\n";
 
-    int tmp = INF + INF;
-    cout << tmp << endl;
     return 0;
 }
