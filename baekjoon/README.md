@@ -81,6 +81,7 @@
 |[3197](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_3197)|플래티넘5|백조의 호수|BFS 심화|
 |[4991](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_4991)|골드2|로봇 청소기|비트마스킹|
 |[1039](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1039)|골드3|**교환**|BFS + 문자열|
+|[10217](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_10217)|골드1|KCM Travel|Dijkstra|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
@@ -172,3 +173,5 @@
 |[14503](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_14503)|골드5|로봇 청소기|구현|
 |[14891](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_14891)|골드5|톱니바퀴|
 |[2931](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_2931)|골드3|가스관|
+|[15685](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15685)|골드4|드래곤 커브|블록 회전|
+|[16234](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_16234)|골드5|인구 이동|BFS|
