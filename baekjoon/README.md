@@ -180,3 +180,4 @@
 |[15685](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_15685)|골드4|드래곤 커브|블록 회전|
 |[16234](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_16234)|골드5|인구 이동|BFS|
 |[16235](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_16235)|골드4|나무 재테크|시뮬레이션|
+|[16236](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_16236)|골드3|아기 상어|시뮬레이션 + BFS|
