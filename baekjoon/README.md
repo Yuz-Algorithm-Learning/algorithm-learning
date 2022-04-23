@@ -158,6 +158,7 @@
 |[14890](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_14890)|골드3|경사로|
 |[15683](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_15683)|골드4|감시|DFS|
 |[15684](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_15684)|골드4|사다리 조작|DFS|
+|[17142](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/brute_force/b_17142)|골드4|연구소 3|조합 + BFS|
 
 ## etc
 |번호|티어|제목|알고리즘|
