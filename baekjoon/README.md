@@ -186,3 +186,4 @@
 |[16236](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_16236)|골드3|아기 상어|시뮬레이션 + BFS|
 |[17837](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_17837)|골드2|새로운 게임2|시뮬레이션 + DEQUE|
 |[17822](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_17822)|골드3|원판 돌리기|시뮬레이션|
+|[17825](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_17825)|골드2|주사위 윷놀이|시뮬레이션 + 백트래킹|
