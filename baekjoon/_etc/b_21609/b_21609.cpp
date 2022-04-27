@@ -25,7 +25,7 @@ pair<int, int> bfs(int sy, int sx, int num, vector<vector<bool>> &tmp_block) {
         int x = q.front().second;
         q.pop();
 
-        for(int i= 0; i < 4; i++) {
+        for(int i = 0; i < 4; i++) {
             int ny = y + dy[i];
             int nx = x + dx[i];
 
@@ -142,7 +142,7 @@ int main() {
 
         // 4
         rotate();
-        
+
         // 5
         down();
     }
