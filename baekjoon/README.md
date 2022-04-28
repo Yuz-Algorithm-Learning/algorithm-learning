@@ -193,3 +193,4 @@
 |[19238](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_19238)|골드3|스타트 택시|시뮬레이션|
 |[20055](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_20055)|골드5|컨베이어 벨트 위의 로봇|시뮬레이션|
 |[21611](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_21611)|골드1|마법사 상어와 블리자드|시뮬레이션|
+|[23288](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/_etc/b_23288)|골드3|주사위 굴리기 2|주사위 회전 방식 + 시뮬레이션|
