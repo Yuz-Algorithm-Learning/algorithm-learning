@@ -90,6 +90,7 @@
 |[16946](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_16946)|골드2|벽 부수고 이동하기 4|BFS + Grouping|
 |[2186](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2186)|골드3|문자판|BFS / DFS 두 가지 방법으로 풀어보기|
 |[12886](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_12886)|골드4|돌 그룹|BFS|
+|[5213](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_5213)|골드2|과외맨|BFS|이전 내역 기억|
 
 ## LIS(Longest Increasing Sequence)
 |번호|티어|제목|
