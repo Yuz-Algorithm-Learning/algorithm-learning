@@ -14,6 +14,7 @@
 |[1715](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1715)|골드4|카드 정렬하기|Priority Queue|
 |[1918](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1918)|골드3|후위 표기식|Stack|
 |[10775](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_10775)|골드2|공항|Union-Find|
+|[1976](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1976)|골드4|여행 가자|Union-Find|
 |[2357](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_2357)|골드1|최솟값과 최댓값|Segment Tree|
 |[1655](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1655)|골드2|가운데를 말해요|priority_queue|
 |[3108](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_3108)|골드3|로고|점을 색칠할 때: 두 배씩|
