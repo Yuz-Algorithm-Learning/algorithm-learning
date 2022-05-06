@@ -107,3 +107,4 @@
 |[모두 0으로 만들기](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/모두%200으로%20만들기)|위상 정렬|
 |[GPS](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/GPS)|DP|
 |[표편집](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/표편집)|연결리스트|
+|[보행자 천국](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/programmers/level3/보행자%20천국)|방향에 따른 저장|
