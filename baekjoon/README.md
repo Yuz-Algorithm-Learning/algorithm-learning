@@ -151,6 +151,7 @@
 |[12919](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_12919)|골드5|A와 B 2|
 |[5430](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_5430)|골드5|AC|Deque|
 |[9177](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_9177)|골드4|단어 섞기|BFS|
+|[1593](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/string/b_1593)|골드5|문자 해독|
 
 ## brute force
 |번호|티어|제목|알고리즘|
