@@ -10,6 +10,7 @@
 ## data structure
 |번호|티어|제목|알고리즘|
 |------|---|---|---|
+|[5568](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_5568)|실버4|카드 놓기|Set + 순열(nPr)|
 |[7662](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_7662)|골드5|이중 우선순위 큐|Priority Queue + Map|
 |[1715](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1715)|골드4|카드 정렬하기|Priority Queue|
 |[1918](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1918)|골드3|후위 표기식|Stack|
