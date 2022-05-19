@@ -8,4 +8,4 @@ struct Node {
     Node* next;
     Node(int n, Node* prev, Node* next) : n(n), prev(prev), next(next) {}
 };
-``
+```
