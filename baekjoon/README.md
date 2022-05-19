@@ -62,6 +62,7 @@
 |[16928](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_16928)|실버1|뱀과 사다리 게임|BFS|
 |[12851](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_12851)|골드5|숨바꼭질 2|BFS|
 |[13549](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_13549)|골드5|숨바꼭질 3|BFS|
+|[13913](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_13913)|골드4|숨바꼭질 4|BFS|
 |[7576](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_7576)|골드5|토마토|BFS|
 |[2206](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_2206)|골드4|벽 부수고 이동하기|BFS|
 |[9019](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_9019)|골드4|DSLR|BFS|
