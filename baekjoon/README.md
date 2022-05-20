@@ -20,6 +20,7 @@
 |[1655](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1655)|골드2|가운데를 말해요|priority_queue|
 |[3108](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_3108)|골드3|로고|점을 색칠할 때: 두 배씩|
 |[1717](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_1717)|골드4|집합의 표현|Union-Find|
+|[4195](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/data_structures/b_4195)|골드2|친구 네트워크|Union-Find|
 
 ## dynamic programming
 |번호|티어|제목|알고리즘|
