@@ -83,6 +83,7 @@
 |[1810](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1810)|골드4|**징검다리 달리기 2**|Dijkstra|
 |[1197](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1197)|골드4|최소 스패닝 트리|MST|
 |[4396](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_4386)|골드4|별자리 만들기|MST + Union-Find|
+|[1774](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1774)|골드3|우주신과의 교감|MST + Union-Find|
 |[11657](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_11657)|골드4|타임머신|Bellman-Ford|
 |[1865](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1865)|골드3|웜홀|Bellman-Ford|
 |[1219](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/graph/b_1219)|골드2|오민식의 고민|Bellman-Ford|
