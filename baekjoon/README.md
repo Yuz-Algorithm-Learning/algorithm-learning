@@ -46,6 +46,7 @@
 |[2098](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2098)|골드1|외판원 순회|비트마스킹|
 |[14501](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_14501)|실버3|퇴사|
 |[7579](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_7579)|골드3|앱|배낭 알고리즘|
+|[2533](https://github.com/Yuz-Algorithm-Learning/algorithm-learning/tree/main/baekjoon/dynamic_programming/b_2533)|골드3|사회망 서비스(SNS)|tree|
 
 ## graph
 |번호|티어|제목|알고리즘|
